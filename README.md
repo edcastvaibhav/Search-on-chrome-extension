@@ -1,3 +1,5 @@
+<img src="https://lh3.googleusercontent.com/EGvEeaK7dht-V0qqjXF-_In7uMvF1NvrBCCJFYJ25JDAyyZKhSLl7se2cTl35Y8voZuqMisB=s1280-h800-e365-rw">
+
 This is a very Simple extension to search the selected text on Popular platforms like Youtube, Quora, Facebook, Twitter & many more.
 Using this extension is very simple: Just select some text, right click and search on the popular Web apps.
 
