@@ -21,3 +21,9 @@ Supported platforms in this version:
 7. Reddit
 
 & many more coming soon :)
+
+Developer Info:
+
+Name: Vaibhav Jain
+Email: odesk.vaibhav@gmail.com
+Skype: odesk.vaibhav
