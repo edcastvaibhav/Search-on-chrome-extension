@@ -24,6 +24,12 @@ let sources = [
 		"type": "queryParam"
 	},
 	{
+		"name": "Linkedin",
+		"url": "https://www.linkedin.com/search/results/index",
+		"paramName": "keywords",
+		"type": "queryParam"
+	},
+	{
 		"name": "Twitter",
 		"url": "https://twitter.com/search",
 		"paramName": "q",
