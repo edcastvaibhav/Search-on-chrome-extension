@@ -3,9 +3,9 @@
 This is a very Simple extension to search the selected text on Popular platforms like Youtube, Quora, Facebook, Twitter & many more.
 Using this extension is very simple: Just select some text, right click and search on the popular Web apps.
 
-<img src="https://lh3.googleusercontent.com/psq3nKmvnB_4HqP0wo0xc7yoepBwiLTcFUkqT7ojuPBSvE7pO8DM_Q20JI-xzU56DV3ykkFFgw=s1280-h800-e365-rw">
+<img src="https://lh3.googleusercontent.com/psq3nKmvnB_4HqP0wo0xc7yoepBwiLTcFUkqT7ojuPBSvE7pO8DM_Q20JI-xzU56DV3ykkFFgw=s1280-h800-e365-rw" width="100%">
 
-<img src="https://lh3.googleusercontent.com/lZ2dIacvAalTqd44-AHSvSdmXq69WsuyLLLFndBJEW-icKhQxbfX_1fvbPng6WyumQsXgwlcNg=s1280-h800-e365-rw">
+<img src="https://lh3.googleusercontent.com/lZ2dIacvAalTqd44-AHSvSdmXq69WsuyLLLFndBJEW-icKhQxbfX_1fvbPng6WyumQsXgwlcNg=s1280-h800-e365-rw" width="100%">
 
 Supported platforms in this version: 
 
