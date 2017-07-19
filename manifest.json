@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Search On",
   "description": "This is a very Simple extension to search the selected text on Popular platforms like Youtube, Quora, Facebook, Twitter & many more.",
-  "version": "1.0",
+  "version": "1.1",
   "browser_action": {
     "default_icon": "icons/large.png",
     "default_title" : "Post to Google Buzz"
