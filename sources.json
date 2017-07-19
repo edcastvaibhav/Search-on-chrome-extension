@@ -1,0 +1,55 @@
+let sources = [
+	{
+		"name": "Wikipedia",
+		"url": "https://en.wikipedia.org/w/index.php",
+		"paramName": "search",
+		"type": "queryParam"
+	},
+	{
+		"name": "Youtube",
+		"url": "https://www.youtube.com/results",
+		"paramName": "search_query",
+		"type": "queryParam"
+	},
+	{
+		"name": "Quora",
+		"url": "https://www.quora.com/search",
+		"paramName": "q",
+		"type": "queryParam"
+	},
+	{
+		"name": "Facebook",
+		"url": "https://www.facebook.com/search/top",
+		"paramName": "q",
+		"type": "queryParam"
+	},
+	{
+		"name": "Twitter",
+		"url": "https://twitter.com/search",
+		"paramName": "q",
+		"type": "queryParam"
+	},
+	{
+		"name": "Stack Overflow",
+		"url": "https://stackoverflow.com/search",
+		"paramName": "q",
+		"type": "queryParam"
+	},
+	{
+		"name": "Google Maps",
+		"url": "https://www.google.co.in/maps/search",
+		"type": "url"
+	},
+	{
+		"name": "Reddit",
+		"url": "https://www.reddit.com/search",
+		"paramName": "q",
+		"type": "queryParam"
+	},
+	{
+		"name": "Edcast",
+		"url": "edcast.com",
+		"paramName": "q",
+		"type": "multiTenant"
+	}
+]
