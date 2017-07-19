@@ -24,6 +24,6 @@ Supported platforms in this version:
 
 Developer Info:
 
-Name: Vaibhav Jain
-Email: odesk.vaibhav@gmail.com
-Skype: odesk.vaibhav
+Name: Vaibhav Jain <br>
+Email: odesk.vaibhav@gmail.com <br>
+Skype: odesk.vaibhav <br>
